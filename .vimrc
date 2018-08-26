@@ -142,3 +142,4 @@ endif
 
 " moko
 set clipboard=unnamed,autoselect
+set guifont=Hermit
